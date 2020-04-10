@@ -1,4 +1,6 @@
 # Combinatorics
+Algorithm for generating different number sequences
+
 # Subsets
 Algorithm for enumerating all subsets and using it for search all subsets with equal weights sum
 
